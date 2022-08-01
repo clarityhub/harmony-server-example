@@ -1,0 +1,4 @@
+node_modules
+pgdata
+cert.cert
+cert.key
